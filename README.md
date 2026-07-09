@@ -4,7 +4,7 @@ This edited repository is for GroupMaker Community, an internet Windows assignme
 
 GroupMaker Community is an ABSEL Community resource. As such, the application can be freely downloaded, installed, and used _without formalities_, which means that the application does not require that information entered is true. Thus, although GroupMaker Community asks registrants for their name and email, it verifies the email address only at the user's request. This restriction on the application does not apply to the users themselves. When the users are instructors and students, the users can validate email addresses by emailing each other using application-registered addresses, and the instructor can edit the email addresses of their students.
 
-## Table of Contents
+## Forked Table of Contents
 
 1. README.md: An introductory message.
 2. Publications.md: A list of related ABSEL Proceedings publications.
